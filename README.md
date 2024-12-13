@@ -1,8 +1,8 @@
-# Yesser Miranda | Desarrollador Web
+# Jhonstrong Melendez | Desarrollador Web
 
-![Profile views](https://komarev.com/ghpvc/?username=YesserMiranda&label=Views&color=brightgreen&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=JhonstrongMelendez&label=Views&color=brightgreen&style=flat-square)
 
-[![GitHub followers](https://img.shields.io/github/followers/YesserMiranda.svg?style=social&label=Followers)](https://github.com/YesserMiranda?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/JhonstrongMelendez.svg?style=social&label=Followers)](https://github.com/JhonstrongMelendez?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Yesser!;I'm+a+Web+Developer;Passionate+about+DevOps+and+Cloud+Computing)](https://git.io/typing-svg)
 
