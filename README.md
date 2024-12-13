@@ -9,7 +9,7 @@
 ## About Me
 
 - 🔭 I’m currently working on **Web Development** projects with technologies like **JavaScript** and **Python**.
-- 🌱 I have experience working with frameworks like **React**,  **NodeJS**, **NestJS**,  **Express**, and **Laravel**, creating scalable web applications.
+- 🌱 I have experience working with frameworks like **React**, **React Native**, **NodeJS**, **NestJS**,  **Express**, more JavaScript tecnologies, creating scalable web applications.
 - 👯 I’m looking to collaborate on projects involving **DevOps**, and **Web Development**.
 - 💬 Ask me about **Web Development**, **DevOps**.
 - 📫 You can reach me at **[osmanmelendez208@correo.com](mailto:osmanmelendez208@correo.com)**.
