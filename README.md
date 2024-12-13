@@ -123,8 +123,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/osman-melendez-99a1621b5)
 - [Twitter](https://twitter.com/osmanmelendez)
-- [Email](mailto:osmanmelendez208@correo.com)
-  
+- [Email](mailto:osmanmelendez208@correo.com)  
   
 ---
 
