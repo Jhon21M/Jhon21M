@@ -110,7 +110,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YesserMiranda&show_icons=true&theme=gruvbox" alt="Jhon21M GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhonstrong&show_icons=true&theme=gruvbox" alt="Jhon21M GitHub Stats"/>
 </p>
 
 ## 🔥 GitHub Activity
@@ -121,13 +121,11 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yessermiranda)
-- [Twitter](https://twitter.com/YesserMiranda)
-- [Medium](https://medium.com/@yessermiranda)
-- [Email](mailto:yesser.miranda@correo.com)
-- https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-- https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2FTelegram-2CA5E0%3Fstyle%3Dfor-the-badge%26logo%3Dtelegram%26logoColor%3Dwhite
-
+- [LinkedIn](https://www.linkedin.com/in/osman-melendez-99a1621b5)
+- [Twitter](https://twitter.com/osmanmelendez)
+- [Email](mailto:osmanmelendez208@correo.com)
+  
+  
 ---
 
 **Pronouns**: He/Him  
