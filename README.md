@@ -4,15 +4,15 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/JhonstrongMelendez.svg?style=social&label=Followers)](https://github.com/JhonstrongMelendez?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Yesser!;I'm+a+Web+Developer;Passionate+about+DevOps+and+Cloud+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Jhonstrong!;I'm+a+Web+Developer;Passionate+about+DevOps+and+Cloud+Computing)](https://git.io/typing-svg)
 
 ## About Me
 
 - 🔭 I’m currently working on **Web Development** projects with technologies like **JavaScript** and **Python**.
-- 🌱 I have experience working with frameworks like **React**, **NestJS**, and **Laravel**, creating scalable web applications.
-- 👯 I’m looking to collaborate on projects involving **Cloud Computing**, **DevOps**, and **Web Development**.
-- 💬 Ask me about **Web Development**, **DevOps**, and **Cloud Technologies**.
-- 📫 You can reach me at **[yesser.miranda@correo.com](mailto:yesser.miranda@correo.com)**.
+- 🌱 I have experience working with frameworks like **React**,  **NodeJS**, **NestJS**,  **Express**, and **Laravel**, creating scalable web applications.
+- 👯 I’m looking to collaborate on projects involving **DevOps**, and **Web Development**.
+- 💬 Ask me about **Web Development**, **DevOps**.
+- 📫 You can reach me at **[osmanmelendez208@correo.com](mailto:osmanmelendez208@correo.com)**.
 
 ## 🛠️ My Skills
 
