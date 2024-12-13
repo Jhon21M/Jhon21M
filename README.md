@@ -76,7 +76,7 @@
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   </a>
 </p>
-### 👉 Software & Tools
+## 👉 Software & Tools
 
 <p>
   &emsp;
