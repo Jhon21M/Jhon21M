@@ -110,13 +110,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YesserMiranda&show_icons=true&theme=gruvbox" alt="Yesser Miranda GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YesserMiranda&show_icons=true&theme=gruvbox" alt="Jhon21M GitHub Stats"/>
 </p>
 
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YesserMiranda&theme=gruvbox&hide_border=true&area=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Jhon21M&theme=gruvbox&hide_border=true&area=true" />
 </p>
 
 ## 📫 Connect with Me
