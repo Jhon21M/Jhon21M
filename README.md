@@ -57,8 +57,8 @@
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://www.jenkins.io/">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <a href="https://www.cloud.google.com/">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   </a>
 </p>
 
