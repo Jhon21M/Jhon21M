@@ -58,7 +58,7 @@
   </a>
   &emsp;
   <a href="https://www.cloud.google.com/">
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+    <img alt="Google Cloud" src="https://img.shields.io/badge/googlecloud-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   </a>
 </p>
 
